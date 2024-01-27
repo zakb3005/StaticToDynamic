@@ -114,6 +114,7 @@ footer {
     }
 
     nav {
+        width: auto;
         flex-direction: column;
         margin-top: 11px;
     }
